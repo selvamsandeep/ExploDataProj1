@@ -1,4 +1,4 @@
-#This scrit plot the histogram for variable global_active_power 
+#This scrit plot the line graph  between week day & variable global_active_power 
 #and save the plot in 'png file named  plot.png
 #using sql qrery from sqldf packages read the required rows
 
